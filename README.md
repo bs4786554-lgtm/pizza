@@ -1,2 +1,2 @@
-# pizza-sales-sql
+# pizzahut-sales-sql-project
 
